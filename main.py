@@ -57,3 +57,5 @@ elif parent_model == "Quit":
        st.success("Session closed. You can safely close the browser tab.")
 
        st.stop()
+else:
+    pass
